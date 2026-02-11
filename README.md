@@ -26,3 +26,4 @@ Author: Daniel Chronlund
 
 See installation instructions and details on my blog:
 https://danielchronlund.com/2022/04/21/a-powerfull-conditional-access-change-dashboard-for-microsoft-sentinel/
+# Deployment trigger - Wed Feb 11 10:10:51 AM PST 2026
