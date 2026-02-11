@@ -1,6 +1,6 @@
 FileName, CommitSha
-Sentinel Workbooks/Attack-Surface-Reduction-Dashboard.json,4055c84d84f2a827a1681c8a598942c29a0713b6
-Sentinel Analytics Rules/Conditional_Access_Sentinel_Analytics_Rules_Pack.json,b47e4b23da1be2cefdaad4cd7e733aee53a6ea02
 Sentinel Workbooks/Device-Compliance-of-Newly-Registered-Devices.json,9024f050e2cc722dac6b023ea24909ed5601efed
 Sentinel Workbooks/Conditional-Access-Change-Dashboard.json,3b3eebe8e5dd6eee00837b478cd6af2e7ed89e96
+Sentinel Workbooks/Attack-Surface-Reduction-Dashboard.json,4055c84d84f2a827a1681c8a598942c29a0713b6
+Sentinel Analytics Rules/Conditional_Access_Sentinel_Analytics_Rules_Pack.json,b47e4b23da1be2cefdaad4cd7e733aee53a6ea02
 
